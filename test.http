@@ -9,3 +9,14 @@ Accept: application/json
 {
     "todo": "Belajar NodeJS"
 }
+
+###
+
+PUT http://localhost:3000
+Content-Type: application/json
+Accept: application/json
+
+{
+    "id": 1,
+    "todo": "Belajar NodeJS"
+}
